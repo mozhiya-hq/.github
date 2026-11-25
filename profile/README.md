@@ -20,7 +20,7 @@ Many Tamil children abroad understand Paati on the phone but answer her in Engli
 
 ### ✨ What's inside
 
-| | |
+| Try it | What it does |
 |---|---|
 | 🔤 **[Letter trainer](https://mozhiya.com/learn/tamil-letters)** | All 247 letters with sound, then a listen-and-pick quiz |
 | 🎮 **[Word game](https://mozhiya.com/learn/word-game)** | See a picture, pick the word, or hear a word and pick the picture |
